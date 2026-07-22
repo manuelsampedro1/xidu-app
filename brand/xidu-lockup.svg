@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 384" role="img" aria-labelledby="title description">
+  <title id="title">XIDU APP</title>
+  <desc id="description">Identidad visual de XIDU APP</desc>
+  <g transform="translate(32 32) scale(.3125)">
+    <rect width="1024" height="1024" rx="224" fill="#17233B"/>
+    <path fill="#2DD4BF" d="M196 180h190l126 158 126-158h190L608 474 836 844H642L512 628 382 844H188l228-370z"/>
+    <path fill="#75E8DA" d="M386 180h126v158L416 474 196 180z" opacity=".72"/>
+    <path fill="#FF8C6B" d="M512 418l80 104-80 106-80-106z"/>
+    <path fill="#F7FAFC" d="M638 180h190L608 474l-96-136z" opacity=".96"/>
+  </g>
+  <g fill="#17233B" font-family="Barlow Semi Condensed, Arial, sans-serif">
+    <text x="408" y="226" font-size="160" font-weight="750" letter-spacing="8">XIDU</text>
+    <text x="418" y="310" font-size="48" font-weight="650" letter-spacing="18">APP</text>
+  </g>
+</svg>
