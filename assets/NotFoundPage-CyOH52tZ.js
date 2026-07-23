@@ -1,1 +1,0 @@
-import{r as e,t}from"./vendor-react-Dcg1XFcY.js";import{r as n}from"./Ui-BWXyOSjm.js";var r=t();function i(){return(0,r.jsx)(`div`,{className:`page page-enter`,children:(0,r.jsx)(n,{title:`Esta página no existe`,description:`Vuelve al inicio para continuar.`,action:(0,r.jsx)(e,{className:`button button--primary`,to:`/`,children:`Ir al inicio`})})})}export{i as NotFoundPage};
